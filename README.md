@@ -15,7 +15,7 @@ Project aims to create Voltran Clubwithin html and css.
 
 ## Project Design
 
-- <a href="https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4">https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4<a>
+- <a href="#">https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4<a>
 
 ## Project Skeleton 
 
