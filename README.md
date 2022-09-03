@@ -3,11 +3,11 @@ Voltran_Club
 
 
 ## Description
-Project aims to create team members within html and css.
+Project aims to create Voltran Clubwithin html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[TeamMembers](https://muharremgem.github.io/HTML_CSS_TeamMembers/)| Html Css  |![crewin](./images/team_members1.gif)
+[VoltranClub](https://muharremgem.github.io/HTML_CSS_VoltranClub/)| Html Css  |![crewin](./images/voltran.gif)
 
 
 ## Problem Statement
@@ -20,7 +20,7 @@ Project aims to create team members within html and css.
 ## Project Skeleton 
 
 ```
-001-Team members (folder)
+001-VoltranClub (folder)
 |----images
 |----readme.md                 
 |----index.html  
@@ -32,7 +32,7 @@ Project aims to create team members within html and css.
 
 ## Objective
 
-Functionally create a Team members as in the image above
+Functionally create a VoltranClub  as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
