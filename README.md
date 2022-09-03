@@ -14,7 +14,7 @@ Project aims to create Voltran Clubwithin html and css.
 - Your company has recently started a project to promote its employees on its website. So you and your colleagues will promote it on the project.
 
 ## Project Design
--
+- Figma
 
 ## Project Skeleton 
 
