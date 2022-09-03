@@ -35,13 +35,13 @@ Functionally create a VoltranClub  as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML Forms-Input Types 
+- HTML Navbar
 
-- HTML Form Elements
+- HTML images
 
 - CSS Colors-Border Properties
 
-- CSS Margins-Padding
+- CSS Margins-Padding-Grid-Flex
 
 - CSS Properties for Texts-Font Families-Links
 
@@ -58,7 +58,7 @@ Functionally create a VoltranClub  as in the image above
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create Team members
+- Step 3: Create VoltranClub
 
 >>Part-1 HTML Structure
 
@@ -74,8 +74,8 @@ Functionally create a VoltranClub  as in the image above
 	- Set a background and define font-color="white"
 	- Set container background color and margin
 	- Define "title" and "description" color-size-padding etc...
-	- Define "team-members" color-size-padding etc..
-	- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
+	- Define "voltranclub" color-size-padding etc..
+	- Define labels color-size-padding etc... 
 	- Set class color-size-padding-margin etc...
 	- Define id="submit" color-size-padding etc...
 	
@@ -89,7 +89,7 @@ Functionally create a VoltranClub  as in the image above
 
 ## Resources
 
--  [Background Image Url](./background_image.jpg)
+
 
 
 <center> &#8987; Happy Coding  &#9997; </center>
